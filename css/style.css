@@ -1,0 +1,22 @@
+.thumbnail {
+    display: block;
+    padding: 4px;
+    margin-bottom: 2px;
+    line-height: 1.42857143;
+    background-color: #180153;
+    border: 0px solid #ddd;
+    border-radius: 4px;
+    -webkit-transition: border .2s ease-in-out;
+    -o-transition: border .2s ease-in-out;
+    transition: border .2s ease-in-out;
+}
+body{
+    background: url(../images/bg.jpg);
+}
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 20px;
+}
